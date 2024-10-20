@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Webfolio/static/css/main.cff7d5fa.css",
+    "main.js": "/Webfolio/static/js/main.a8cc85aa.js",
+    "static/media/project-1.jpeg": "/Webfolio/static/media/project-1.2234ac164a553774c60b.jpeg",
+    "static/media/project-3.jpeg": "/Webfolio/static/media/project-3.b342d0c318259c33974f.jpeg",
+    "static/media/project-2.jpeg": "/Webfolio/static/media/project-2.f3bf6abee56af48b182e.jpeg",
+    "static/media/project-4.jpeg": "/Webfolio/static/media/project-4.fb29fd35d9301e005e71.jpeg",
+    "static/media/brush.png": "/Webfolio/static/media/brush.9d054dbd39baa01a725f.png",
+    "index.html": "/Webfolio/index.html",
+    "main.cff7d5fa.css.map": "/Webfolio/static/css/main.cff7d5fa.css.map",
+    "main.a8cc85aa.js.map": "/Webfolio/static/js/main.a8cc85aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cff7d5fa.css",
+    "static/js/main.a8cc85aa.js"
+  ]
+}
